@@ -35,7 +35,7 @@ export const profile = {
 
   /** One decision you're proud of, in a sentence. */
   decisionImProudOf:
-    "I chose to take a gap semester to work retail; it taught me more about customers than any textbook.",
+    "I worked hard once I turned 16 with a goal to buy a car by my senior year. Took a lot of hard work and pursuading my parents, but I did it.",
 
   /**
    * Your photo. Replace public/photo.svg with a real photo of you
@@ -52,13 +52,13 @@ export const profile = {
   rosterVisibility: "class" as "class" | "professor-only",
 
   /** A one-line tagline for your home page. Make it yours. */
-  tagline: "Building a portfolio of decision services, one lane at a time.",
+  tagline: "Working with AI, one project at a time.",
 
   /**
    * A short bio for your home page: two or three sentences, written like
    * a person, not a resume. What are you studying? What do you care about?
    */
-  bio: "I'm a business student at the University of Delaware learning to make good decisions at any scale. This site is my working portfolio: every course challenge deploys here as a live service.",
+  bio: "I am a senior business analytics student at the University of Delaware. I am interested in using AI to create interesting projects that otherwise would've been very difficult.",
 
   /**
    * Your GitHub repo URL. The course platform reads this from /api/health to
